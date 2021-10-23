@@ -26,6 +26,7 @@ public class Calculation {
 			System.out.println(c.add(1,2,3,4));
 			System.out.println(c.add(4,5,1));
 			System.out.println(c.multiply(4,5));
+			System.out.println(c.multiply(5,5));
 		}
 
 
